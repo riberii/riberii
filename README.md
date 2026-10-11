@@ -1,107 +1,120 @@
 <div align="center">
 
-# Marquis Verino
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Marquis%20Verino&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Informatics%20%7C%20IoT%20%7C%20AI%20%7C%20Game%20Dev&descSize=16&descAlignY=62" alt="Marquis Verino banner" />
 
-**Informatics student · IoT × AI builder · Debater**
-Surabaya, Indonesia
+<a href="https://github.com/riberii">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Informatics+Olympiad+%28OSN%29+school+representative;Finalist+%7C+UKP+Hackathon+IoT+x+AI;Building+with+Python%2C+C%23%2C+C%2B%2B+and+ESP32;Debater.+Roboticist.+Problem+solver." alt="Typing intro" />
+</a>
 
-<a href="mailto:marquisverino12@gmail.com"><img src="https://img.shields.io/badge/Email-marquisverino12%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Open%20to-collaboration-2ea043?style=flat-square" alt="Open to collaboration"/>
+<br/>
+
+<a href="mailto:marquisverino12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Based_in-Surabaya%2C_Indonesia-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Status-Open_to_collaborate-2ea043?style=for-the-badge" alt="Status" />
 
 </div>
 
 ---
 
-## About
+## 👋 About me
 
-I build things where software meets the physical world, from an ESP32 that waters a plant to a Unity physics sandbox. I'm drawn to problems that can be framed as puzzles: pathfinding, optimization, game logic, and anything where a clean algorithm beats brute force.
+I'm a student from Surabaya who likes building things where **software meets hardware**: from an ESP32 plant-watering system with AI leaf diagnosis to physics-driven Unity games. I represent my school in the **Informatics Olympiad (OSN)**, compete in national debate circuits, and have spent 5 years in coding clubs going from Scratch → Python → C++.
 
-Outside of code, I compete in debate and speech, and I'm working toward cybersecurity as my next big area.
+Right now I'm building out my CS university portfolio, and my long-term goal is **cybersecurity**.
 
-## Highlights
+## 🏆 Highlights
 
-| | |
+| | Details |
 |---|---|
-| 🏆 **Finalist, UKP Hackathon (IoT × AI)** | Built **AgriSense**, an ESP32 auto-watering system with AI leaf-condition recognition |
-| 🚀 **NASA Space Apps Challenge** | Currently participating |
-| 🧠 **Informatics OSN** | Represented my school in the national science olympiad |
-| 🎤 **Debate & public speaking** | HICOM, Wirasena (Kemenpora) debate & speech competitions; Harvard Debate Council-led workshop at Ciputra School Surabaya; 2nd place, English news speaking |
-| 🧩 **Competitive problem solving** | Bebras, ICAS, Schematics NPC Junior (C++) |
-| 🤖 **Robotics** | 4 years of line-follower robot building in a school club |
+| 🥇 **Hackathon** | **Finalist, UKP Hackathon IoT x AI**. Built **AgriSense**, an auto-watering plant system (ESP32) combined with image recognition (Teachable Machine) that checks leaf condition |
+| 🛰️ **NASA** | Currently participating in the **NASA Space Apps Challenge** |
+| 🧠 **Informatics** | **School representative** for OSN (National Science Olympiad), Informatics |
+| 🗣️ **Debate & speech** | HICOM, Wirasena Kemenpora debate & speech competition · attended a **Harvard Debate Council** workshop at Ciputra School Surabaya · 2nd place, English news speaking (school) |
+| 🧩 **Competitions** | Bebras · ICAS · Schematics NPC Junior (C++) |
 
-## Featured Project: AgriSense
+## 🌱 Featured: AgriSense
 
-A prototype that pairs IoT hardware with computer vision for smarter plant care.
+An IoT x AI system that closes the loop between a plant and its care:
 
-- **IoT layer:** an ESP32-based system that automatically waters the plant
-- **AI layer:** an image-recognition model trained with Teachable Machine that classifies the condition of the plant's leaves
-- **Built for:** the UKP Hackathon IoT × AI, where it reached the finals
-- **Why it worked:** hands-on knowledge of how the hardware actually behaves (current, voltage, resistance) combined with a practical ML pipeline
+- **IoT layer:** ESP32-based automatic watering system, built on my own electronics knowledge (current, voltage, resistance) rather than copy-paste wiring.
+- **AI layer:** a Teachable Machine image-recognition model that looks at a leaf and classifies its condition.
+- **Result:** Finalist at the UKP Hackathon IoT x AI.
 
-<!-- Add the repo link here once AgriSense is on GitHub -->
+<!-- TODO: once the AgriSense repo is public, add: [View the repository](https://github.com/riberii/AgriSense) -->
 
-## Selected Projects
+## 🛠️ Selected projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Surabaya-Care-Portal**](https://github.com/riberii/Surabaya-Care-Portal) | Full-stack web prototype for community support and mental health awareness, deployed on PythonAnywhere | Flask · HTML |
-| [**Crushed-Survival-2D**](https://github.com/riberii/Crushed-Survival-2D) | High-tension vertical platformer with procedural hazards and precise collision detection | Unity · C# |
-| [**Spherical-Physics-Lab**](https://github.com/riberii/Spherical-Physics-Lab) | 3D exploration of torque, linear force, and momentum in the Unity physics engine | Unity · C# |
-| [**A-Star-Pathfinding-Tool**](https://github.com/riberii/A-Star-Pathfinding-Tool) | Visualization of the A* algorithm with Manhattan heuristics for 2D navigation | Python |
-| [**TBS-Combat-Simulator**](https://github.com/riberii/TBS-Combat-Simulator) | Turn-based combat system exploring state-based gameplay and enemy AI scaling | Python |
-| [**Edge-Impulse-Leaf-Pest-Detection-Model**](https://github.com/riberii/Edge-Impulse-Leaf-Pest-Detection-Model) | Standalone WebAssembly model for real-time leaf pest and disease classification | Edge Impulse · JavaScript |
+| [Surabaya-Care-Portal](https://github.com/riberii/Surabaya-Care-Portal) | Full-stack web prototype for community support and mental health awareness, deployed on PythonAnywhere | Python · Flask · HTML |
+| [A-Star-Pathfinding-Tool](https://github.com/riberii/A-Star-Pathfinding-Tool) | Visualization of the A* algorithm with Manhattan heuristics for 2D navigation | Python |
+| [TBS-Combat-Simulator](https://github.com/riberii/TBS-Combat-Simulator) | Turn-based combat system exploring state-based gameplay and enemy AI scaling | Python |
+| [Spherical-Physics-Lab](https://github.com/riberii/Spherical-Physics-Lab) | 3D exploration of torque, linear force and momentum in the Unity physics engine | Unity · C# |
+| [Crushed-Survival-2D](https://github.com/riberii/Crushed-Survival-2D) | High-tension vertical platformer with procedural hazards and precise collision detection | Unity · C# |
+| [Blade-Fruit-3D](https://github.com/riberii/Blade-Fruit-3D) | 3D slicing mechanic built on collision triggers and velocity tracking | Unity · C# |
+| [Edge-Impulse-Leaf-Pest-Detection-Model](https://github.com/riberii/Edge-Impulse-Leaf-Pest-Detection-Model) | Real-time leaf pest and disease classification model for web and edge platforms | Edge Impulse · WebAssembly |
 
-## Skills
+## 💻 Skills
 
-| Area | What I work with |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,java,cs,cpp,html,css,flask,unity,arduino,git,github&theme=dark" alt="Tech stack" />
+
+</div>
+
+- **Programming:** Python (main language) · C# (Unity 2D & 3D) · Java (Minecraft modding) · C++ (learning, algorithms & competitive programming)
+- **Web:** Flask, HTML/CSS. Web developer at **SustainOBite**, a non-profit school organisation
+- **Hardware & IoT:** ESP32 · Arduino · line-follower robotics (4 years) · how current, voltage and resistance actually behave in a circuit
+- **AI & automation:** Teachable Machine · prompt engineering · scripting, macros and bots · AI safety & regulation (independent analysis)
+- **Systems:** networking fundamentals · Minecraft SMP server hosting and management
+- **Math & physics:** Basic & Advanced Math, Physics, applied directly in Unity physics and hardware projects
+
+## 📚 Experience & activities
+
+- **Web Developer**, SustainOBite (non-profit school organisation)
+- **Coding club**, 5 years (Scratch → Python → C++)
+- **Robotics club**, 4 years (line-follower robots)
+- **Science club**, 3 years
+- **Unity game development**, 2 years
+- **Math club**, 2 years · **Financial literacy club**, 2 years
+- **Debate club**, regular competitor in national debate and speech competitions
+- **Seminars:** cybersecurity, AI, computer science, food chemistry, virology and more
+
+## 🔭 Currently
+
+- 🛰️ Taking part in the **NASA Space Apps Challenge**
+- ⚙️ Learning **C++** for algorithms and competitive programming
+- 🎮 Going deeper into **advanced C# for Unity**: physics-based mechanics and collision optimization
+- 🌐 Expanding my **backend Flask** skills
+- 🔐 Next on the list: **cybersecurity**
+
+## 🌏 Languages
+
+| Language | Level |
 |---|---|
-| **Languages** | Python · C# · Java · C++ (learning) · HTML/CSS |
-| **Game development** | Unity 2D/3D, character controllers, collision and physics systems, 2 years of experience |
-| **IoT & hardware** | ESP32 · Arduino · sensors and actuators · electronics fundamentals |
-| **AI & ML** | Teachable Machine · Edge Impulse · prompt engineering · following AI safety and regulation |
-| **Web** | Flask · Bootstrap · deployment on PythonAnywhere · web development for SustainOBite (non-profit) |
-| **Systems & automation** | Scripting, macros, and bots · Minecraft server hosting and management · networking fundamentals |
-| **Math & Physics** | Advanced math, physics, algorithms and pathfinding |
+| 🇮🇩 Indonesian | Native |
+| 🇬🇧 English | Very good |
+| 🗣️ Javanese | Good |
+| 🇲🇾 Malay | Basic (frequent visits to Malaysia, friends there) |
+| 🇯🇵 Japanese | Learning (beginner) |
+| 🇨🇳 Mandarin | Learning (HSK 1) |
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
+## 🤝 Let's collaborate
 
-## Currently
+I'm looking to team up on **open-source Unity 3D games** and **Python-based AI utility scripts**, and I'd love guidance on **backend Flask** and **AI development**.
 
-- 🛰️ Taking on a **NASA challenge**
-- ⚙️ Learning **C++** through algorithmic and competitive programming problems
-- 🎮 Going deeper into **advanced C# for Unity**: physics, math, and collision optimization
-- 🌐 Building out **Surabaya Harapan**, my Flask web app, and strengthening my backend skills
-- 🔐 Heading toward **cybersecurity** as my next focus
+## ⚡ Fun facts
 
-## Beyond the Code
-
-**Clubs & learning:** coding club (5 years: Scratch → Python → C++), robotics (4 years), science (3 years), financial literacy (2 years), math (2 years), Unity game dev (2 years). I also attend seminars on topics like cybersecurity, AI, computer science, virology, and food chemistry.
-
-**Languages:** Indonesian (native) · English (advanced) · Javanese (good) · Malay (basic) · Japanese and Mandarin (HSK 1, learning)
-
-**Fun fact:** I treat public transport routes as shortest-path puzzles, which is how my A* project started. I also once spent a whole weekend debugging a single Flask deployment just to watch it go live, and it was worth it.
-
-## Looking For
-
-- 🤝 Collaborators for **open-source Unity 3D games** or **Python-based AI utility scripts**
-- 📚 Mentorship and projects that push my **backend Flask** and **AI development** skills further
-
-## Get in Touch
-
-📫 **marquisverino12@gmail.com**
+- INTP, and I treat Surabaya's public transport like a shortest-path puzzle.
+- Daily ritual: logic puzzles like Pydle and Wordle.
+- I once spent a whole weekend debugging a single Flask deployment, and seeing it go live was worth it.
 
 ---
 
 <div align="center">
-<sub>Always building, always learning.</sub>
+
+📫 **marquisverino12@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" alt="footer" />
+
 </div>
