@@ -20,9 +20,7 @@
 <a href="https://twitter.com/waterysnake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waterysnake" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marquis-verino-79b62a279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marquis-verino-79b62a279" height="30" width="40" /></a>
 <a href="https://codesandbox.com/wateryfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="wateryfox" height="30" width="40" /></a>
-<a href="https://kaggle.com/wateryfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wateryfox" height="30" width="40" /></a>
 <a href="https://instagram.com/marquisverinojune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marquisverinojune" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/3onhfrjlnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="3onhfrjlnh" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1106890331900891166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1106890331900891166" height="30" width="40" /></a>
 </p>
 
