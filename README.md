@@ -1,23 +1,125 @@
-<h1 align="center">Hi 👋, I'm Marquis Verino</h1>
-<h3 align="center">An aspiring computer student from Surabaya, Indonesia</h3>
+<h1 align="center">Marquis Verino</h1>
 
-- 🔭 I’m currently working on [Surabaya Harapan (a Python Flask web app) and building out my CS university portfolio.](https://github.com/WateryFox/Surabaya-Care-Portal)
+<p align="center">
+  <b>Computer Science–bound student · IoT & AI Builder · Unity / Python Developer</b><br>
+  Surabaya, Indonesia
+</p>
 
-- 🌱 I’m currently learning **Advanced C# for Unity, advanced physics & mathematics, and optimizing Unity collisions.**
+<p align="center">
+  <a href="mailto:marquisverino12@gmail.com"><img src="https://img.shields.io/badge/Email-marquisverino12@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/WateryFox/Surabaya-Care-Portal"><img src="https://img.shields.io/badge/Featured%20Project-Surabaya%20Care%20Portal-2ea44f?style=flat-square&logo=flask&logoColor=white" alt="Featured project"></a>
+</p>
 
-- 👯 I’m looking to collaborate on **Open source Unity 3D games or Python based AI utility scripts.**
+---
 
-- 🤝 I’m looking for help with **Expanding my backend Flask skills and diving deeper into AI development.**
+## About
 
-- 💬 Ask me about **Python, C#, Unity 2D/3D, cosmology, or philosophical questions!**
+I'm a high school student with five years of coding club experience who builds things at the intersection of **software, hardware, and AI**. I enjoy turning ideas into working systems, whether that's an IoT device that waters plants on its own, a Flask web app, or a Unity game. Alongside programming, I compete in informatics olympiads and debate, and I'm preparing for a Computer Science degree with a long-term interest in **cybersecurity**.
 
-- 📫 How to reach me **marquisverino12@gmail.com**
+---
 
-- ⚡ Fun fact **I once spent a whole weekend troubleshooting a single Flask deployment just to see it go live and it was worth it.**
+## Highlights
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/500px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a> </p>
+| | |
+|---|---|
+| 🏆 **Finalist, UKP Hackathon (IoT × AI)** | Built **AgriSense**, an automatic plant-watering system that combines an **ESP32** with a **Teachable Machine** image model to recognise leaf condition. |
+| 🚀 **NASA Challenge** | Currently participating, building an app for the challenge. |
+| 🧮 **Informatics OSN** | Selected as my school's representative in the national Informatics Olympiad (OSN). |
+| 🗣️ **Competitive Debate** | Regular participant in national debate and speech competitions, including **HICOM** and the **Wirasena Kemenpora** debate & speech competition. Attended a **Harvard Debate Council** workshop in Surabaya. |
+| 💻 **Coding Clubs (5 years)** | Five years of active involvement in school coding clubs, building the foundation for my work in Python, C#, Java, and web development. |
+| 🤖 **Robotics (4 years)** | Four years in my school's robotics club, focused on line-follower robots. |
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wateryfox&show_icons=true&locale=en&layout=compact" alt="wateryfox" /></p> -->
+---
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wateryfox&show_icons=true&locale=en" alt="wateryfox" /></p> -->
+## Featured Project: AgriSense
+
+An IoT + AI system for smarter plant care.
+
+- **Hardware:** ESP32 microcontroller with sensors and an automatic watering mechanism
+- **AI:** Image classification model (Teachable Machine) that analyses leaf condition
+- **Result:** Finalist at the UKP Hackathon IoT × AI
+
+---
+
+## Technical Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks, Tools & Platforms**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Focus Areas**
+
+- **IoT & Embedded Systems:** ESP32 and Arduino, with a solid grounding in the underlying electronics (current, voltage, resistance, circuit design) from school physics
+- **Game Development:** Unity 2D and 3D in C#; currently studying collision optimisation and applied physics
+- **Web Development:** Flask backends and front-end work; contributed as a web developer at **SustainOBite**, a non-profit school organisation
+- **AI & Prompt Engineering:** Applied AI with Teachable Machine; strong prompting skills; interest in **AI safety and regulation**
+- **Automation & Scripting:** Scripts, macros, and bots for repetitive workflows
+- **Systems & Networking:** Networking fundamentals from school; Minecraft server hosting and administration; Java for Minecraft modding
+
+---
+
+## Competitions & Activities
+
+- **Informatics OSN:** school representative
+- **Schematics NPC Junior:** C++ competitive programming
+- **Bebras & ICAS:** regular participant
+- **UKP Hackathon IoT × AI:** finalist
+- **NASA Challenge:** current participant
+- **Debate:** HICOM, Wirasena Kemenpora, Harvard Debate Council workshop
+- **Coding Clubs:** five years
+- **Robotics Club:** four years, line-follower robots
+
+---
+
+## Currently
+
+- 🔨 Building **[Surabaya Care Portal](https://github.com/WateryFox/Surabaya-Care-Portal)**, a Python Flask web app, as part of my CS university portfolio
+- 📚 Learning **C++**, advanced C# for Unity, and advanced mathematics & physics
+- 🔐 Exploring **cybersecurity** fundamentals
+- 🚀 Working on my NASA Challenge submission
+
+---
+
+## Open To
+
+- Collaborating on **open-source Unity 3D games** or **Python-based AI utility tools**
+- Mentorship and feedback on **backend development (Flask)** and **AI development**
+
+---
+
+## Languages
+
+| Language | Level |
+|---|---|
+| Indonesian | Native |
+| English | Advanced |
+| Javanese | Conversational–Good |
+| Malay | Basic |
+| Japanese | Beginner (learning) |
+| Mandarin Chinese | Beginner (HSK 1 in progress) |
+
+---
+
+<p align="center">
+  <i>Always building, always learning. Feel free to reach out at
+  <a href="mailto:marquisverino12@gmail.com">marquisverino12@gmail.com</a>.</i>
+</p>
