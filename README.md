@@ -95,12 +95,12 @@ An IoT x AI system that closes the loop between a plant and its care:
 
 | Language | Level |
 |---|---|
-| 🇮🇩 Indonesian | Native |
-| 🇬🇧 English | Very good |
-| 🗣️ Javanese | Good |
-| 🇲🇾 Malay | Basic (frequent visits to Malaysia, friends there) |
-| 🇯🇵 Japanese | Learning (beginner) |
-| 🇨🇳 Mandarin | Learning (HSK 1) |
+| Indonesian | Native |
+| English | Very good |
+| Javanese | Good |
+| Malay | Basic (frequent visits to Malaysia, friends there) |
+| Japanese | Learning (beginner) |
+| Mandarin | Learning (HSK 1) |
 
 ## 🤝 Let's collaborate
 
@@ -110,6 +110,7 @@ I'm looking to team up on **open-source Unity 3D games** and **Python-based AI u
 
 - INTP, and I treat Surabaya's public transport like a shortest-path puzzle.
 - Daily ritual: logic puzzles like Pydle and Wordle.
+- I play VR regularly, which keeps me curious about building for it in Unity someday.
 - I once spent a whole weekend debugging a single Flask deployment, and seeing it go live was worth it.
 
 ---
