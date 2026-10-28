@@ -32,7 +32,7 @@
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
   <text x="60" y="132" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="700" fill="#ffffff">Marquis Verino</text>
-  <text x="60" y="168" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#9ba7b4">Informatics Olympiad  ·  IoT x AI finalist  ·  Debater</text>
+  <text x="60" y="168" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#9ba7b4">Informatics Olympiad  ·  IoT x AI ·  Debater</text>
   <text x="60" y="198" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#3fb950">Python  ·  C#  ·  C++  ·  ESP32  ·  Unity</text>
   <rect x="60" y="214" width="180" height="4" rx="2" fill="url(#accent)"/>
 </svg>
